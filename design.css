@@ -1,0 +1,45 @@
+p {
+  text-align: center;
+}
+
+.p1 {
+  font-size: 45px;
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: Black;
+border-width: 12px;
+width: 7%;
+}
+
+table {
+  text-align: center;
+  font-size: 50px;
+}
+
+.mainlogo {
+  width: 1000px;
+  text-align: center;
+}
+.idlogo {
+  width: 85px;
+height: 85px;
+border-radius: 100%;
+}
+
+body {
+  background-image: url(bg.jpg);
+}
+
+header {
+  font-family: inherit;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: sans-serif;
+  text-align: center;
+}
